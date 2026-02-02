@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardlam4391&label=Profile%20views&color=0e75b6&style=flat" alt="richardlam4391" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richardlam4391" alt="richardlam4391" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/richardlam4391/Richard_Lam_Data_Portfolio_And_Projects](https://github.com/richardlam4391/Richard_Lam_Data_Portfolio_And_Projects)
 
 - 📫 How to reach me **richardlam4391@hotmail.com**
