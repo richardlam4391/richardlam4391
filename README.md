@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Richard Lam</h1>
-<h3 align="center">Graduated from KIngsborough Community College with Associate of Arts in Liberal Arts in 6/2017 and City College of New York with Bachelor of Science in Applied Math with a Minor in Physics in 6/2021</h3>
+<h3 align="center">Graduated from KIngsborough Community College with Associate of Arts in Liberal Arts in 6/2017 and from The City College of New York with Bachelor of Science in Applied Math with a Minor in Physics in 6/2021</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richardlam4391&label=Profile%20views&color=0e75b6&style=flat" alt="richardlam4391" /> </p>
 
