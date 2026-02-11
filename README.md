@@ -48,3 +48,5 @@ College Graduate with Bachelor
 - API and Web Scraping
 
 - Data Visualization
+
+- Data Manipulation 
