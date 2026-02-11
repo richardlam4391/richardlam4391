@@ -7,7 +7,42 @@ College Graduate with Bachelor
 * 🖥️  See my portfolio at [Richard Lam's Portfolio](http://github.com/richardlam4391/Richard_Lam_Data_Portfolio_And_Projects). Please see the projects, certificates and course completions.
 * ✉️  You can contact me at [richardlam4391@hotmail.com](mailto:richardlam4391@hotmail.com)
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-</p>
+### Technical skills
+- Python (pandas, numpy, scikit-learn, matplotlib, seaborn and sqlite3)
+  
+- SQL (MySQL and Microsoft SQL Server)
 
+- Visual Studio Code
+
+- Jupyter Notebook
+
+- Looker Studio
+
+- Microsoft Word
+
+- Microsoft PowerPoints
+
+- Microsoft Excel (Pivot Table and VLOOKUP) 
+
+### Other skills
+- Data Entry
+  
+- Data Analysis
+
+- Data Report and Dashboard
+
+- Math and Statistics
+
+- Data Management
+
+- Document and Filing Management
+
+- Statistical Analysis
+
+- Machine Learning
+
+- Data Cleansing and Wrangling
+
+- API and Web Scraping
+
+- Data Visualization
