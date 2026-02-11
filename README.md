@@ -29,7 +29,9 @@ College Graduate with Bachelor
   
 - Data Analysis
 
-- Data Report and Dashboard
+- Data Report
+  
+- Dashboard
 
 - Math and Statistics
 
