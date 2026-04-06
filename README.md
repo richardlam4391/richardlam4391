@@ -22,7 +22,7 @@ College Graduate with Bachelor
 
 - Microsoft PowerPoints
 
-- Microsoft Excel (Pivot Table and VLOOKUP) 
+- Microsoft Excel (Pivot Table, VLOOKUP/HLOOKUP/XLOOKUP, Conditional Formatting) 
 
 ### Other skills
 - Data Entry
