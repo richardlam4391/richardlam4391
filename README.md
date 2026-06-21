@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Richard Lam
+Hi, my name is Richard Lam.
 ====================================================================================================================================
 
 College Graduate with Bachelor of Science in Applied Math with a Minor in Physics
