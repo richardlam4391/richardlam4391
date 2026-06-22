@@ -1,116 +1,112 @@
-Hi, my name is Richard Lam.
-====================================================================================================================================
+# Hi, I'm Richard Lam 👋
 
-- This is Richard Lam's Profolio
+**Data Analyst & Data Scientist** | Bachelor of Science in Applied Math (Minor: Physics) | Certified Professional
 
-College Graduate with Bachelor of Science in Applied Math with a Minor in Physics
-------------------------------
-
-- You can contact me at [richardlam4391@hotmail.com](mailto:richardlam4391@hotmail.com)
+Welcome to my data science portfolio! I'm passionate about transforming raw data into actionable insights through rigorous analysis, visualization, and statistical modeling.
 
 ---
 
-## Profile
+## 🎯 About Me
 
-- [Richard's Tableau profile](https://public.tableau.com/app/profile/richardlam4391/vizzes)
+I'm a college graduate with a strong foundation in mathematics and physics, now specializing in data analysis and science. I've completed multiple professional certifications from IBM/Coursera and have hands-on experience with real-world datasets across industries. My focus is on building scalable data pipelines, deriving meaningful insights, and communicating findings clearly to stakeholders.
 
-- [Richard's LinkedIn profile](https://www.linkedin.com/in/richardlam4391/)
-
----
-
-## Course Certificate
-
-- [IBM Data Analyst Professional Certificate Courses](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate) | Coursera | June 2025
-
-- [Data Analysis and Visualization Foundation Courses](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations) | Coursera | June 2025
-
-- [Data Science Fundamentals with Python and SQL Courses](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL) | Coursera | June 2025
-
-- [Introduction to Data Science Courses](https://github.com/richardlam4391/Introduction_to_Data_Science) | Coursera | June 2025
-
-- [IBM Data Science Professional Certificate Courses](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate) | Coursera | October 2025
+**Background:**
+- 🎓 **Education:** B.S. in Applied Mathematics (Minor: Physics)
+- 📜 **Certifications:** IBM Data Analyst Professional Certificate | IBM Data Science Professional Certificate
+- 📊 **BI Tools:** Tableau, IBM Cognos Analytics
+- 🔗 **Profiles:** [Tableau](https://public.tableau.com/app/profile/richardlam4391/vizzes) | [LinkedIn](https://www.linkedin.com/in/richardlam4391/)
 
 ---
 
-## Completing Certificates
+## 🛠️ Technical Skills
 
-- [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IJ3TFHW44GSH) | Coursera | June 2025
+### **Languages & Databases**
+- **Programming:** Python, SQL (SQLite, PostgreSQL, IBM Db2)
+- **Spreadsheets & BI:** Microsoft Excel, Tableau, IBM Cognos Analytics
 
-- [Data Analysis and Visualization Foundations Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/30B3SLSBRWZR) | Coursera | June 2025
+### **Python Data Science Stack**
+- **Data Manipulation:** Pandas, NumPy, SciPy
+- **Statistical Analysis & ML:** Scikit-Learn, Scipy.stats
+- **Visualization:** Matplotlib, Seaborn, Plotly, Folium
+- **Web Scraping:** BeautifulSoup, requests
+- **Financial APIs:** yfinance
 
-- [Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/RQF5XQ4DUCTT) | Coursera | June 2025
-
-- [Introduction to Data Science](https://www.coursera.org/account/accomplishments/specialization/DD5AC7RI2C8G) | Coursera | June 2025
-
-- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/0QDNHSLT2300) | Coursera | October 2025
-
----
-
-## Online Course Completions
-
-- [Introduction to Data Analytics](https://www.coursera.org/account/accomplishments/verify/5SI76EF9R2VB) | Coursera | March 2025
-
-- [Excel Basics for Data Analysis](https://www.coursera.org/account/accomplishments/verify/IKAHZ1KI5UOC) | Coursera | March 2025
-
-- [Data Visualization and Dashboards with Excel and Cognos](https://www.coursera.org/account/accomplishments/verify/F7GCBEUAR5UT) | Coursera | April 2025
-
-- [Python for Data Science, AI and Development](https://www.coursera.org/account/accomplishments/verify/8VA7R7HY70B0) | Coursera | April 2025
-  
-- [Python Project for Data Science](https://www.coursera.org/account/accomplishments/records/7EX0YZJ2F14I) | Coursera | April 2025
-
-- [Databases and SQL for Data Science with Python](https://www.coursera.org/account/accomplishments/verify/NL7BBVS8KQMB) | Coursera | April 2025
-
-- [Data Analysis with Python](https://www.coursera.org/account/accomplishments/verify/FFNBYUXI9T2F) | Coursera | May 2025
-
-- [Data Visualization with Python](https://www.coursera.org/account/accomplishments/certificate/X9L9510WVZI9) | Coursera | May 2025
-
-- [IBM Data Analyst Capstone Project](https://www.coursera.org/account/accomplishments/verify/BA5ORVTRAE0U) | Coursera | May 2025
-
-- [Generative AI: Enhance your Data Analytics Career](https://www.coursera.org/account/accomplishments/records/IZHJSKBAQ3G6) | Coursera | May 2025
-
-- [Data Analyst Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/AS12SK9CUVMG) | Coursera | June 2025
-
-- [Assessment for Data Analysis and Visualization Foundations](https://www.coursera.org/account/accomplishments/certificate/QYM957UWSOUJ) | Coursera | June 2025
-
-- [Statistics for Data Science with Python](https://www.coursera.org/account/accomplishments/records/BL5YA7MIGS4D) | Coursera | June 2025
-
-- [What is Data Science?](https://www.coursera.org/account/accomplishments/verify/P3XWPHMJTO77) | Coursera | June 2025
-
-- [Tools for Data Science](https://www.coursera.org/account/accomplishments/verify/VD9OLW7S4HPG) | Coursera | June 2025
-
-- [Data Science Methodology](https://www.coursera.org/account/accomplishments/certificate/8VJB0EJ4G8H2) | Coursera | June 2025
-
-- [Machine Learning with Python](https://www.coursera.org/account/accomplishments/certificate/4C33QEW6QU3K) | Coursera | October 2025
-
-- [Applied Data Science Capstone](https://www.coursera.org/account/accomplishments/certificate/DBVFJR2L2S5P) | Coursera | October 2025
-
-- [Generative AI: Elevate Your Data Science Career](http://coursera.org/account/accomplishments/certificate/9JO2MLV7ACQ9) | Coursera | October 2025
-
-- [Data Scientist Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/NGKXL6DH1K7I) | Coursera | October 2025
+### **Core Competencies**
+✅ Exploratory Data Analysis (EDA)  
+✅ Data Cleaning & Wrangling  
+✅ Statistical Modeling & Hypothesis Testing  
+✅ Machine Learning (Classification, Regression)  
+✅ Data Visualization & Dashboarding  
+✅ SQL Query Optimization  
+✅ Web Scraping & API Integration  
+✅ Generative AI for Data Analytics  
 
 ---
 
-## Non-Capstone Projects
+## 📚 Featured Projects
 
-- [Excel Basics for Data Analysis: Montgomery Fleet Equipment Inventory FA](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Excel%20Basics%20for%20Data%20Analysis) | Coursera | March 2025
+### **Capstone Projects**
+1. **[IBM Data Analyst Capstone: Technical Skills Trends Analysis](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)**
+   - Analyzed job market trends, salary distributions, and in-demand tech skills
+   - Built interactive Plotly dashboards and IBM Cognos reports
+   - Technologies: Python, SQL, Plotly, IBM Cognos, Pandas
 
-- [Data Visualization and Dashboards with Excel and Cognos: Sale and Service Dashboard](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos) | Coursera | April 2025
+2. **[Applied Data Science Capstone: Winning Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)**
+   - Predictive analysis on SpaceX launch success
+   - Machine learning model development and evaluation
+   - Technologies: Python, Scikit-Learn, SQL
 
-- [Python Project for Data Science: Extracting and Visualizing Stock Data](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Python%20Project%20for%20Data%20Science) | Coursera | April 2025
+### **Core Projects**
+- **[Stock Data Analysis: Tesla & GameStop](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20Project%20for%20Data%20Science)** — Web scraping, API integration, financial visualization
+- **[House Price Prediction: King County](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)** — Regression modeling, feature engineering, hyperparameter tuning
+- **[Chicago Socioeconomic Data Analysis](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python)** — Advanced SQL queries, relational database management
+- **[Rainfall Prediction Classifier](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)** — Classification, ensemble methods, model evaluation
 
-- [Databases and SQL for Data Science with Python: Chicago Socioeconomic Data](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python) | Coursera | April 2025
+---
 
-- [Data Analysis With Python: House Sales in King County, USA](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python) | Coursera | May 2025
+## 📜 Certifications & Learning
 
-- [Data Visualization with Python: Historical Automobile_Sales](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Visualization%20with%20Python) | Coursera | May 2025
+### **Professional Certificates**
+- ✅ [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IJ3TFHW44GSH) — June 2025
+- ✅ [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/0QDNHSLT2300) — October 2025
+- ✅ Data Analysis and Visualization Foundations Specialization — June 2025
+- ✅ Data Science Fundamentals with Python and SQL — June 2025
 
-- [Statistics for Data Science with Python: Boston Housing](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Statistics%20for%20Data%20Science%20with%20Python) | Coursera | June 2025
+### **Specialized Courses Completed** (19 Total)
+Advanced SQL, Python for Data Science, Data Visualization, Machine Learning, Statistical Analysis, Generative AI for Analytics, and more.
 
-- [Machine Learning with Python: Building a Rainfall Prediction Classifier](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python) | Coursera | October 2025
+👉 **[View all certificates](https://github.com/richardlam4391/richardlam4391/blob/main/README.md#completing-certificates)**
 
-## Capstone Projects
+---
 
-- [IBM Data Analyst Capstone Project: The Analysis of Current and Future Trends in Techanical Skills](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project) | Coursera | May 2025
+## 🗂️ Repository Guide
 
-- [Applied Data Science Capstone: Winning Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone) | Coursera | October 2025
+| Repository | Focus | Status |
+| --- | --- | --- |
+| [IBM Data Analyst Professional Certificate](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate) | End-to-end data analysis workflow | ✅ Complete |
+| [IBM Data Science Professional Certificate](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate) | ML, statistical modeling, capstone | ✅ Complete |
+| [Data Science Fundamentals](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL) | Python, SQL, statistics | ✅ Complete |
+| [Data Analysis & Visualization Foundations](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations) | Visualization best practices | ✅ Complete |
+| [Introduction to Data Science](https://github.com/richardlam4391/Introduction_to_Data_Science) | Foundational concepts | ✅ Complete |
 
+---
+
+## 📊 My Approach to Data Analysis
+
+1. **Understand the Problem** → Define clear objectives and success metrics
+2. **Collect & Clean Data** → Ensure data quality and consistency
+3. **Explore & Visualize** → Identify patterns, trends, and anomalies
+4. **Model & Test** → Apply statistical/ML techniques with validation
+5. **Communicate Results** → Present actionable insights with visualizations
+
+---
+
+## 📬 Let's Connect!
+
+- **Email:** [richardlam4391@hotmail.com](mailto:richardlam4391@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/richardlam4391/](https://www.linkedin.com/in/richardlam4391/)
+- **Tableau Public:** [public.tableau.com/app/profile/richardlam4391/](https://public.tableau.com/app/profile/richardlam4391/vizzes)
+
+---
+
+*Last updated: June 2026*
