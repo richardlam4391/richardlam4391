@@ -8,9 +8,11 @@ College Graduate with Bachelor of Science in Applied Math with a Minor in Physic
 
 ---
 
-## Tableau Profile
+## Profile
 
-[Richard's tableau profile](https://public.tableau.com/app/profile/richardlam4391/vizzes)
+- [Richard's Tableau profile](https://public.tableau.com/app/profile/richardlam4391/vizzes)
+
+- [Richard's LinkedIn profile](https://www.linkedin.com/in/richardlam4391/)
 
 ---
 
