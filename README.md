@@ -4,6 +4,8 @@ Hi, my name is Richard Lam.
 College Graduate with Bachelor of Science in Applied Math with a Minor in Physics
 ------------------------------
 
+- This is Richard Lam's Profolio
+
 - You can contact me at [richardlam4391@hotmail.com](mailto:richardlam4391@hotmail.com)
 
 ---
