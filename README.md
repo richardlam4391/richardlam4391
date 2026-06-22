@@ -16,6 +16,20 @@ College Graduate with Bachelor of Science in Applied Math with a Minor in Physic
 
 ---
 
+## Course Certificate
+
+- [IBM Data Analyst Professional Certificate Courses](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate) | Coursera | June 2025
+
+- [Data Analysis and Visualization Foundation Courses](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations) | Coursera | June 2025
+
+- [Data Science Fundamentals with Python and SQL Courses](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL) | Coursera | June 2025
+
+- [Introduction to Data Science Courses](https://github.com/richardlam4391/Introduction_to_Data_Science) | Coursera | June 2025
+
+- [IBM Data Science Professional Certificate Courses](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate) | Coursera | October 2025
+
+---
+
 ## Completing Certificates
 
 - [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IJ3TFHW44GSH) | Coursera | June 2025
@@ -72,18 +86,7 @@ College Graduate with Bachelor of Science in Applied Math with a Minor in Physic
 
 - [Data Scientist Career Guide and Interview Preparation](https://www.coursera.org/account/accomplishments/certificate/NGKXL6DH1K7I) | Coursera | October 2025
 
-
-## Course Certificate
-
-- [IBM Data Analyst Professional Certificate Courses](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate) | Coursera | June 2025
-
-- [Data Analysis and Visualization Foundation Courses](https://github.com/richardlam4391/Data_Analysis_And_Visualization_Foundations) | Coursera | June 2025
-
-- [Data Science Fundamentals with Python and SQL Courses](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL) | Coursera | June 2025
-
-- [Introduction to Data Science Courses](https://github.com/richardlam4391/Introduction_to_Data_Science) | Coursera | June 2025
-
-- [IBM Data Science Professional Certificate Courses](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate) | Coursera | October 2025
+---
 
 ## Non-Capstone Projects
 
