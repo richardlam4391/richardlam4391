@@ -69,8 +69,9 @@ I'm a college graduate with a strong foundation in mathematics and physics, now 
 ### **Professional Certificates**
 - ✅ [IBM Data Analyst Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/IJ3TFHW44GSH) — June 2025
 - ✅ [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/0QDNHSLT2300) — October 2025
-- ✅ Data Analysis and Visualization Foundations Specialization — June 2025
-- ✅ Data Science Fundamentals with Python and SQL — June 2025
+- ✅ [Data Analysis and Visualization Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/30B3SLSBRWZR) — June 2025
+- ✅ [Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/RQF5XQ4DUCTT) — June 2025
+- ✅ [Introduction to Data Science](https://www.coursera.org/account/accomplishments/specialization/DD5AC7RI2C8G) — June 2025
 
 ### **Specialized Courses Completed** (19 Total)
 Advanced SQL, Python for Data Science, Data Visualization, Machine Learning, Statistical Analysis, Generative AI for Analytics, and more.
