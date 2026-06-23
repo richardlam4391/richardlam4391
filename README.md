@@ -73,11 +73,6 @@ I'm a college graduate with a strong foundation in mathematics and physics, now 
 - ✅ [Data Science Fundamentals with Python and SQL](https://www.coursera.org/account/accomplishments/specialization/RQF5XQ4DUCTT) — June 2025
 - ✅ [Introduction to Data Science](https://www.coursera.org/account/accomplishments/specialization/DD5AC7RI2C8G) — June 2025
 
-### **Specialized Courses Completed** (19 Total)
-Advanced SQL, Python for Data Science, Data Visualization, Machine Learning, Statistical Analysis, Generative AI for Analytics, and more.
-
-👉 **[View all certificates](https://github.com/richardlam4391/richardlam4391/blob/main/README.md#completing-certificates)**
-
 ---
 
 ## 🗂️ Repository Guide
