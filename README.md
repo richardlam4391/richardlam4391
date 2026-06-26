@@ -1,5 +1,7 @@
 # Hi, I'm Richard Lam 👋
 
+---
+
 **Data Analyst & Data Scientist** | Bachelor of Science in Applied Math (Minor: Physics) | Certified Professional
 
 Welcome to my data science portfolio! I'm passionate about transforming raw data into actionable insights through rigorous analysis, visualization, and statistical modeling.
