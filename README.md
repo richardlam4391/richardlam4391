@@ -50,8 +50,8 @@ I'm a college graduate with a strong foundation in mathematics and physics, now 
 ### **Capstone Projects**
 1. **[IBM Data Analyst Capstone: Technical Skills Trends Analysis](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/IBM%20Data%20Analyst%20Capstone%20Project)**
    - Analyzed job market trends, salary distributions, and in-demand tech skills
-   - Built interactive Plotly dashboards and IBM Cognos reports
-   - Technologies: Python, SQL, Plotly, IBM Cognos, Pandas
+   - Built interactive Plotly dashboards and Tableau reports
+   - Technologies: Python, SQL, Plotly, Tableau, Pandas
 
 2. **[Applied Data Science Capstone: Winning Space Race with Data Science](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Applied%20Data%20Science%20Capstone)**
    - Predictive analysis on SpaceX launch success
