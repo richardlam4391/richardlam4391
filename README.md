@@ -64,6 +64,7 @@ I'm a college graduate with a strong foundation in mathematics and physics, now 
 * **[Chicago Socioeconomic Data Analysis](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python)** — Advanced SQL queries, relational database management
 * **[Rainfall Prediction Classifier](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)** — Classification, ensemble methods, model evaluation
 * **[Sale and Service Dashboards](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** — Interactive dashboards with Excel & Cognos
+* **[Boston Housing Statistics](./Statistics%20for%20Data%20Science%20with%20Python)** — Descriptive statistics, correlation analysis, distribution testing
 
 
 ---
