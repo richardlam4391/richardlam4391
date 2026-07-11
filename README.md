@@ -63,7 +63,7 @@ I'm a college graduate with a strong foundation in mathematics and physics, now 
 * **[House Price Prediction: King County](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)** — Regression modeling, feature engineering, hyperparameter tuning
 * **[Chicago Socioeconomic Data Analysis](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python)** — Advanced SQL queries, relational database management
 * **[Rainfall Prediction Classifier](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)** — Classification, ensemble methods, model evaluation
-* **[Excel & Cognos Dashboards](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** —Interactive dashboards
+* **[Sale and Service Dashboards](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** — Interactive dashboards with Excel & Cognos
 
 
 ---
