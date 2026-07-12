@@ -59,12 +59,12 @@ I'm a college graduate with a strong foundation in mathematics and physics, now 
    * Technologies: Python, Scikit-Learn, SQL
 
 ### **Core Projects**
-* **[Stock Data Analysis: Tesla & GameStop](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20Project%20for%20Data%20Science)** * Web scraping, API integration, financial visualization
+* **[Stock Data Analysis: Tesla & GameStop](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Python%20Project%20for%20Data%20Science)** - Web scraping, API integration, financial visualization
 * **[House Price Prediction: King County](https://github.com/richardlam4391/IBM-Data-Analyst-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python)** — Regression modeling, feature engineering, hyperparameter tuning
 * **[Chicago Socioeconomic Data Analysis](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Database%20and%20SQL%20for%20Data%20Science%20with%20Python)** — Advanced SQL queries, relational database management
 * **[Rainfall Prediction Classifier](https://github.com/richardlam4391/IBM_Data_Science_Professional_Certificate/tree/main/Machine%20Learning%20with%20Python)** — Classification, ensemble methods, model evaluation
 * **[Sale and Service Dashboards](./Data%20Visualization%20and%20Dashboards%20with%20Excel%20and%20Cognos)** — Interactive dashboards with Excel & Cognos
-* **[Boston Housing Statistics](./Statistics%20for%20Data%20Science%20with%20Python)** — Descriptive statistics, correlation analysis, distribution testing
+* **[Boston Housing Statistics](https://github.com/richardlam4391/Data_Science_Fundamentals_With_Python_And_SQL/tree/main/Statistics%20for%20Data%20Science%20with%20Python)** — Descriptive statistics, correlation analysis, distribution testing
 
 
 ---
